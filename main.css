@@ -1,0 +1,71 @@
+body {
+    background-color: #aac1ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.karte {
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+.titel {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.visual-container {
+    border-style: groove;
+}
+
+.image {
+    margin: 10px;
+    width: 450px;
+    height: auto;
+    border-radius: 5%;
+}
+
+.img-label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    color: grey;
+    font-style: italic;
+}
+
+.text-box {
+    margin: 5px;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.button-container-welcome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.button1 {
+    margin-right: 50px;
+}
+
+.button2 {
+    margin-left: 50px;
+}
